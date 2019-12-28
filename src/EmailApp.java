@@ -4,4 +4,5 @@ public class EmailApp {
         Email em1 = new Email("John", "Smith");
 
     }
+    //Testing for github push
 }
